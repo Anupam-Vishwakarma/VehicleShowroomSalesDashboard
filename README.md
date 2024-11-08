@@ -21,3 +21,18 @@ For creating interactive dashboards and visualizations.
 For data analysis and calculations within Power BI.
 ### CSV/Excel:
 Data sources for sales records.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any inquiries or feedback, please reach out to:
+
+### Email:
+krishnaanupam56@gmail.com
+
+### LinkedIn:
+https://www.linkedin.com/in/anupam-vishwakarma-460149244/
